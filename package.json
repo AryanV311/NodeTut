@@ -1,0 +1,23 @@
+{
+  "name": "node_tut",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/AryanV311/NodeTut#readme",
+  "bugs": {
+    "url": "https://github.com/AryanV311/NodeTut/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AryanV311/NodeTut.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "os_module.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
